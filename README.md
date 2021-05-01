@@ -1,1 +1,0 @@
-This is KCorg's first git project!
